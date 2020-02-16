@@ -13,3 +13,53 @@
  *= require_tree .
  *= require_self
  */
+.top
+h1 {
+  padding: 15px;
+  font-size: x-large;
+ }
+ p {
+ 	padding-left: 40px;
+ 	line-height: 4;
+ 	font-size: small;
+ }
+
+ .index
+ h2 {
+ 	padding-left: 30px;
+ }
+
+table {
+	padding-left: 30px;
+}
+thead {
+	font-size: small;
+
+}
+
+tbody {
+	font-size: small;
+
+}
+
+section {
+	padding-left: 30px;
+}
+h4 {
+	font-size: small;
+
+}
+
+.show
+h5 {
+	padding-left: 30px;
+}
+
+section {
+	padding-left: 20px;
+}
+
+.edit
+section{
+	padding-left: 30px;
+}
